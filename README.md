@@ -35,10 +35,3 @@ Due to the **limited number of parking places** and the **increasing number of a
 ## Contribution
 Contributions are welcome! Feel free to submit **pull requests** or report **issues**.
 
-## License
-This project is licensed under the **MIT License**.
-
----
-### Author
-Developed by **[Your Name]**
-
